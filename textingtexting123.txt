@@ -7,3 +7,5 @@ double testing double testing new new newerest(?) test
 once upon a time there was a guy who was just trying to learn how to use github
 
 this should now be part of both branches
+
+but not this, this should only be in the feature/lesson-1 branch
