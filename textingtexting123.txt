@@ -6,4 +6,4 @@ double testing double testing new new newerest(?) test
 
 once upon a time there was a guy who was just trying to learn how to use github
 
-this should, theoretically, only be part of the feature/lesson-1 branch
+this should now be part of both branches
